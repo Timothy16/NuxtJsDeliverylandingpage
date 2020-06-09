@@ -14,7 +14,7 @@
                         <div class="form-group">
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                            <small id="emailHelp" class="form-text text-muted click_pass">Forgot Password?</small>
+                            <small id="emailHelp" class="form-text text-muted click_pass">Forgot Password?Cick here</small>
                         </div>
                         <div class="form-group form-check">
                             <input type="checkbox" class="form-check-input" id="exampleCheck1">
